@@ -1,0 +1,1 @@
+export {AuthorizationForm } from './components/authorizationForm'
